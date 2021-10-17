@@ -1,10 +1,10 @@
 ### 1. Hiking
-   -Short hikes
-   -14ers
+   *Short hikes
+   *14ers
 ### 2. Movies
-   -Going to the Movies
-   -Movie nights at home
+   *Going to the Movies
+   *Movie nights at home
 ### 3. Art
-   -Art museums
-   -Drawing
-   -painting
+   *Art museums
+   *Drawing
+   *Painting
